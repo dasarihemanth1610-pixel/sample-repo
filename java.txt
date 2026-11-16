@@ -1,0 +1,16 @@
+java
+========
+public class Calculator{
+       public static void main(String[] args){
+       int a = 10, b = 10:
+       int c = a+d;
+       System.out.println("The sun is :"+c);
+
+}
+
+
+python 
+======
+a = 10,b = 10 
+c = a + b ;
+print(c)
