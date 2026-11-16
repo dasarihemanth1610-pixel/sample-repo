@@ -1,0 +1,17 @@
+python
+------------
+print("Hellow World);
+
+java
+------------
+public class HelloWorld{
+             public static void main(string[] arge){
+             system.out.print("Hello World");
+              }
+
+c
+------
+#include<stdio.h>
+  int.main(){
+    printf("Hello World);
+      return 0;
